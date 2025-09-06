@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Rafiul-124/Rafiul-124/raw/main/banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/Rafiul-124/Rafiul-124/blob/2063a29f7c6afb6e6244148c9179d4529079347e/Colorful%20Geometric%20Technology%20LinkedIn%20Banner.pdf" alt="Banner" width="100%" />
 </p>
 
 > Exploring **Machine Learning** and **Networking**. Hands-on CCNA Routing & Switching labs, ML experiments, configurations, notes, diagrams, and cheat sheets for practical learning.
