@@ -1,18 +1,13 @@
-Md. Rafiul Islam Rifat 🚀
 
 <p align="center">
-<a href="https://github.com/Rafiul-124">
-<img src="https://avatars.githubusercontent.com/u/84994462?v=4" alt="Md. Rafiul Islam Rifat" width="150" height="150" style="border-radius: 50%;">
-</a>
+<img src="https://github.com/Rafiul-124/Rafiul-124/blob/dba3f91bc269484a6ad525ca343550c0c06e6751/Colorful%20Geometric%20Technology%20LinkedIn%20Banner.png" alt="Banner" width="100%">
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Rafiul-124/Rafiul-124/main/profile-banner.png" alt="Banner" width="100%">
-</p>
+Md. Rafiul Islam Rifat
 
-    Network Engineering & Machine Learning Enthusiast
+Network Engineering & Machine Learning Enthusiast🚀
 
-    Exploring Machine Learning and Networking. I focus on practical learning through hands-on CCNA Routing & Switching labs, ML experiments, configurations, notes, diagrams, and cheat sheets.
+Exploring Machine Learning and Networking. I focus on practical learning through hands-on CCNA Routing & Switching labs, ML experiments, configurations, notes, diagrams, and cheat sheets.
 
 📖 About Me
 
@@ -23,18 +18,6 @@ Md. Rafiul Islam Rifat 🚀
     Interests: Machine Learning, Networking, Routing, Switching
 
     Skills: Python, C++, Networking, Machine Learning, Cisco
-
-📂 Repository Structure
-
-ccna-routing-switching/
-│── README.md                # This file
-│── notes/                   # Theory notes (PDF/Markdown)
-│── labs/                    # Lab exercises (Packet Tracer/GNS3 files)
-│── configs/                 # Router/Switch CLI configs
-│── cheatsheets/             # Command cheat sheets
-│── diagrams/                # Network topology diagrams
-│── ml-projects/             # Machine Learning mini-projects
-│── resources.md             # Extra learning resources
 
 🛠 How to Use
 
@@ -74,7 +57,3 @@ Feel free to open an issue or submit a pull request if you want to add labs, ML 
     LinkedIn: Md. Rafiul Islam Rifat
 
     Email: rafiul.2202124@std.hstu.ac.bd
-
-<p align="center">
-Made with ❤️ for Machine Learning & Networking Enthusiasts
-</p>
