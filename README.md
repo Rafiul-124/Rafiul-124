@@ -1,16 +1,84 @@
-## Hi there 👋
+# Md. Rafiul Islam Rifat 🚀
 
-<!--
-**Rafiul-124/Rafiul-124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/Rafiul-124/Rafiul-124/raw/main/profile-pic.png" width="150" alt="Profile Picture" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github.com/Rafiul-124/Rafiul-124/raw/main/banner.png" alt="Banner" width="100%" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Exploring **Machine Learning** and **Networking**. Hands-on CCNA Routing & Switching labs, ML experiments, configurations, notes, diagrams, and cheat sheets for practical learning.
+
+---
+
+## 📖 About Me
+
+* **Name:** Md. Rafiul Islam Rifat
+* **GitHub:** [Rafiul-124](https://github.com/Rafiul-124)
+* **Email:** [rafiul.2202124@std.hstu.ac.bd](mailto:rafiul.2202124@std.hstu.ac.bd)
+* **LinkedIn:** [Md. Rafiul Islam Rifat](https://www.linkedin.com/in/md-rafiul-islam-rifat)
+* **Education:** Studying at HSTU in Electronics and Communication Engineering
+* **Interests:** Machine Learning, Networking, Routing, Switching
+* **Skills:** Python, C++, Networking, Machine Learning, Cisco
+
+---
+
+## 📂 Repository Structure
+
+```
+ccna-routing-switching/
+│── README.md           # This file
+│── notes/              # Theory notes (PDF/Markdown)
+│── labs/               # Lab exercises (Packet Tracer/GNS3 files)
+│── configs/            # Router/Switch CLI configs
+│── cheatsheets/        # Command cheat sheets
+│── diagrams/           # Network topology diagrams
+│── ml-projects/        # Machine Learning mini-projects
+│── resources.md        # Extra learning resources
+```
+
+---
+
+## 🛠 How to Use
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Rafiul-124/ccna-routing-switching.git
+```
+
+2. Open **labs** in Cisco Packet Tracer or GNS3.
+3. Check **configs** folder for ready CLI configurations.
+4. Explore **ml-projects** for Machine Learning experiments.
+5. Review **notes** and **cheatsheets** for theory and quick reference.
+
+---
+
+## 📚 Resources
+
+* Cisco Official: [https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html](https://www.cisco.com)
+* Packet Tracer: [Cisco Networking Academy](https://www.netacad.com)
+* GNS3: [https://www.gns3.com/](https://www.gns3.com/)
+* Machine Learning Tutorials: [Kaggle](https://www.kaggle.com/), [TensorFlow](https://www.tensorflow.org/tutorials)
+* YouTube CCNA Labs: [CCNA Routing & Switching](https://www.youtube.com/results?search_query=ccna+routing+and+switching+labs)
+
+---
+
+## ⚡ Contribution
+
+Feel free to open an issue or submit a PR if you want to add labs, ML projects, notes, or diagrams.
+
+---
+
+## 📫 Connect
+
+* Twitter: [@Rafiul-124](https://twitter.com/Rafiul-124)
+* LinkedIn: [Md. Rafiul Islam Rifat](https://www.linkedin.com/in/md-rafiul-islam-rifat)
+* Email: [rafiul.2202124@std.hstu.ac.bd](mailto:rafiul.2202124@std.hstu.ac.bd)
+
+---
+
+<p align="center">
+  Made with ❤️ for Machine Learning & Networking Enthusiasts
+</p>
