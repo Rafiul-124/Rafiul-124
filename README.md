@@ -1,7 +1,7 @@
 # Md. Rafiul Islam Rifat 🚀
 
 <p align="center">
-  <img src="https://github.com/Rafiul-124/Rafiul-124/IMG_20241117_140333_483.jpg" width="150" alt="Profile Picture" />
+  <img src="https://github.com/Rafiul-124/Rafiul-124/blob/0eb5ed4d4e910fc67f54b19d2b5244140aedff23/IMG_20241117_140333_483.jpg" width="150" alt="Profile Picture" />
 </p>
 
 <p align="center">
